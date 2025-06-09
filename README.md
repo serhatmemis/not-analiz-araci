@@ -4,7 +4,7 @@ Bu proje, **Excel** formatındaki öğrenci notlarını alıp:
 - Ağırlıklı ortalama hesaplar
 - Z-skor ekler
 - Artan ortalamaya göre sıralar
-- AA–F arası yüzdelik dilimlere göre kurve (percentile grading) uygular
+- AA–F arası yüzdelik dilimlere göre curve (percentile grading) uygular
 - Histogram ve boxplot oluşturur
 - Sonuçları yeni bir Excel dosyasına ve grafiklere kaydeder
 
@@ -59,4 +59,4 @@ Oluşacak dosyalar:
 
 ## 📄 Lisans
 
-MIT © [Senin Adın]
+MIT © [Serhat Memiş]
